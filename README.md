@@ -1,1 +1,1 @@
-# GitHub-Practive-with-VS-Code
+# GitHub-Practice-with-VS-Code
